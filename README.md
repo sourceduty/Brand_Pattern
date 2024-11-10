@@ -8,6 +8,9 @@
 The process is guided by a step-by-step approach that simplifies design creation for users. Clear multiple-choice questions help refine each aspect of the pattern, from color schemes to geometric layouts, allowing users to shape the design to their liking. With a focus on delivering polished and professional results, the GPT generates Python scripts or directly creates image files based on user preferences. Whether you need a bold, dynamic design or a subtle, elegant backdrop, this tool ensures the output is aligned with your brand’s personality and practical for both digital and physical mediums.
 
 #
+![Brand Pattern](https://github.com/user-attachments/assets/1369d98c-47de-4511-b5d6-9e0328931df6)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
